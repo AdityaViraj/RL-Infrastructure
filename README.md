@@ -26,13 +26,6 @@ This mirrors real-world RL systems used in **trading, robotics, and control syst
 - **PyTorch** (model interface, not model research)
 - **Linux** (process & memory control)
 
-## 📂 Repository Structure
-rl-infrastructure/
-│── envs/              # Custom RL environments (C++ / Python bindings)
-│── core/              # Execution engine, schedulers
-│── replay/            # Replay buffers & memory layout
-│── benchmarks/        # Latency & throughput tests
-│── docs/              # Design notes & experiments
 
 ## 📈 Philosophy
 > Models change. Infrastructure lasts.
